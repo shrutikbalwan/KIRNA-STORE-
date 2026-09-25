@@ -1,0 +1,21 @@
+{
+  "products": [
+    { "id": "toor-dal", "name": "Toor Dal", "purchase": 122, "selling": 145, "stock": 24, "unit": "kg", "color": "gold", "sku": "DAL-001" },
+    { "id": "basmati-rice", "name": "Basmati Rice", "purchase": 82, "selling": 96, "stock": 8, "unit": "kg", "color": "blue", "sku": "RIC-002" },
+    { "id": "sunflower-oil", "name": "Sunflower Oil", "purchase": 128, "selling": 142, "stock": 31, "unit": "L", "color": "orange", "sku": "OIL-003" },
+    { "id": "tata-salt", "name": "Tata Salt", "purchase": 22, "selling": 28, "stock": 0, "unit": "pkt", "color": "teal", "sku": "SAL-004" },
+    { "id": "chai-biscuits", "name": "Chai Biscuits", "purchase": 25, "selling": 30, "stock": 14, "unit": "pkt", "color": "pink", "sku": "BIS-005" }
+  ],
+  "sales": [],
+  "customers": [],
+  "credit-accounts": [],
+  "settings": {
+    "shopName": "Kirana Fresh Mart",
+    "address": "12 Market Road, Main Bazaar\nMumbai, Maharashtra 400001",
+    "phone": "+91 98765 43210",
+    "gstEnabled": false,
+    "taxRate": 0,
+    "currency": "INR (₹)",
+    "receiptFooter": "Thank you for shopping with us!"
+  }
+}
